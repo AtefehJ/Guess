@@ -1,0 +1,17 @@
+@media (max-width: 84em) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 69em) {
+  html {
+    font-size: 65%;
+  }
+}
+
+@media (max-width: 38em) {
+  html {
+    font-size: 45%;
+  }
+}
