@@ -1,0 +1,61 @@
+@media (max-width: 84em) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 69em) {
+  html {
+    font-size: 65%;
+  }
+}
+
+@media (max-width: 33em) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .number {
+    width: 8rem;
+    margin-top: 2.1rem;
+  }
+
+  .main {
+    gap: 0.5rem;
+    padding: 2rem 1rem;
+  }
+  .left {
+    width: 18rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .right {
+    width: 18rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .btn {
+    font-size: 1rem;
+    padding: 1.4rem 1.5rem;
+    border-radius: 2rem;
+  }
+
+  .guess {
+    padding: 1.5rem;
+    width: 10rem;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    border-radius: 2rem;
+  }
+
+  .again {
+    top: 2rem;
+    left: 2.5rem;
+  }
+  .between {
+    font-size: 0.6rem;
+  }
+}
